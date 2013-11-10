@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lohaswork.github.io/sitemap.xml 
+Sitemap: http://Blog.LohasWork.com/sitemap.xml 
