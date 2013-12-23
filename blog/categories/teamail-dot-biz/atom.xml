@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[楽活工場]]></title>
-  <link href="http://Blog.LohasWork.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: teamail.biz | 楽活工場]]></title>
+  <link href="http://Blog.LohasWork.com/blog/categories/teamail-dot-biz/atom.xml" rel="self"/>
   <link href="http://Blog.LohasWork.com/"/>
   <updated>2013-12-23T21:38:26+08:00</updated>
   <id>http://Blog.LohasWork.com/</id>
@@ -22,7 +22,7 @@
 
 <p>今天，『楽活工場』团队的创业产品 <a href="https://teamail.biz">teamail.biz</a> 公测上线，一场更长的马拉松刚刚开始。<a href="https://teamail.biz">teamail.biz</a> 是一款融合了Email与项目管理的新型团队邮箱，它让你的工作变得简单而有序。</p>
 
-<p><a href="https://teamail.biz/"><img src="http://Blog.LohasWork.com/images/teamail.biz.homepage.png" title="点击访问teamail.biz" /></a></p>
+<p><a href="https://teamail.biz/"><img src="/images/teamail.biz.homepage.png" title="点击访问teamail.biz" ></a></p>
 
 <p>Email是企业及团队最重要的沟通工具，每天花N个小时读写Email是大多数办公室白领，尤其是主管们的主要工作。然而，Email既没有团队的概念也不具备项目管理的功能。你只能收到他人主动发送给你的信件，却看不到团队其他成员在交流些什么；你可以用Email传递信息，却难以用它实现项目管控所必须的任务管理与团队协同。</p>
 
