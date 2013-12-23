@@ -36,6 +36,6 @@ Email是企业及团队最重要的沟通工具，每天花N个小时读写Email
 
 + 从"及时清空收件箱"到"团队信息透明化"，[teamail.biz](https://teamail.biz) 让你在潜移默化中体验并实践GTD与敏捷的管理思想，帮你快速实现高效的协作与管理！
 
-在 [产品首页](https://teamail.biz) 上，我们用浅显易懂的插图故事为你讲述了应用 [teamail.biz](https://teamail.biz) 进行团队协作的应用场景。给自己短短3分钟，来了解如何用它“行云流水”地开展工作。
+在 [产品首页](https://teamail.biz) 上，我们用浅显易懂的插图故事为你讲述了应用 [teamail.biz](https://teamail.biz) 进行团队协作的场景。给自己短短3分钟，来了解如何用它“行云流水”地开展工作。
 
 这就是 [teamail.biz](https://teamail.biz)。我来了，你在哪儿？
