@@ -10,7 +10,7 @@ description: teamail.biz 为你解决哪些问题？
 
 2013年12月1日，除了PM2.5，上海是个不错的天气。这是我第二次参加半程马拉松。但与去年不同，这次我不再是一个人战斗。『楽活工場』团队中的两位成员与我并肩作战，一同感受奔跑的喜悦。马拉松是一项有意思的运动。很多人觉得它远超出自己的承受范围，压根儿不会尝试；还有一些，平常运动能力不赖，但比赛中没有把握好节奏，过早耗尽体力导致最终遗憾退赛。只有按照自己的步伐，不抛弃不放弃，才能迎来撞线一刻。创业就像马拉松，我们这样告诫自己。
 
-今天，『楽活工場』团队的创业产品 [teamail.biz](https://teamail.biz) 公测上线，一场新的马拉松刚刚开始。[teamail.biz](https://teamail.biz) 是一款融合了Email与项目管理的新型团队邮箱，它让你的工作变得简单而有序。
+今天，『楽活工場』团队的创业产品 [teamail.biz](https://teamail.biz) 公测上线，一场新的马拉松刚刚开始。 [teamail.biz](https://teamail.biz) 是一款融合了Email与项目管理的新型团队邮箱，它让你的工作变得简单而有序。
 
 [{% img /images/teamail.biz.homepage.png 点击访问teamail.biz %}](https://teamail.biz/)
 
@@ -18,7 +18,7 @@ Email是企业及团队最重要的沟通工具，每天花N个小时读写Email
 
 为此，不少专业的项目管理与协同工具应运而生。从传统单机版的 Microsoft Project 到基于Web的明道，每一个都功能复杂并自成系统。但问题又接踵而来，我要的仅仅是部单车，你却给了我一辆路虎。大多数团队并不需要甘特图、看板和企业微博，它们要的仅仅是能够清楚地自己该做什么，别人又在做些什么，同时又和Email融为一体。是时候做些改变了。
 
-**team + mail = biz (bisiness)**，  [teamail.biz](https://teamail.biz) 给你带来这样的转变。 
+**team + mail = biz (business)**，  [teamail.biz](https://teamail.biz) 给你带来这样的转变。 
 
 > 仅靠每周例会和Email中的只言片语难以及时把握团队整体状况，期限到来时才发现问题并导致延误？
 
@@ -38,4 +38,4 @@ Email是企业及团队最重要的沟通工具，每天花N个小时读写Email
 
 在 [产品首页](https://teamail.biz) 上，我们用浅显易懂的插图故事为你讲述了应用 [teamail.biz](https://teamail.biz) 进行团队协作的场景。给自己短短3分钟，来了解如何用它“行云流水”地开展工作。
 
-这就是 [teamail.biz](https://teamail.biz)。我来了，你在哪儿？
+我是 [teamail.biz](https://teamail.biz)。我来了，你在哪儿？
